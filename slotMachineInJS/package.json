@@ -1,14 +1,14 @@
 {
   "name": "javascript_japery",
   "version": "1.0.0",
-  "description": "My escapade with JavaScript.",
-  "main": "project.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnxiousAnt/JavaScript_japery.git"
+    "url": "git+https://github.com/AnxiousAnt/JavaScript_japery/slotMachineInJS.git"
   },
   "author": "",
   "license": "ISC",
